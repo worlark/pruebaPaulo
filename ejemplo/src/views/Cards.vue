@@ -1,6 +1,7 @@
 <template>
     <div class="mt-5">
         <h1>wena po qlo</h1>
+        <h5>hola los cabros</h5>
         <b-button class="mr-2" variant="success">texto</b-button>
         <b-button class="mr-2" variant="info">texto</b-button>
         <b-button class="mr-2" variant="danger">texto</b-button>
